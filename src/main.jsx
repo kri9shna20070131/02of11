@@ -11,7 +11,7 @@ import {
 import "./styles.css";
 
 // Paste Jahanvi's Spotify playlist URL here.
-const SPOTIFY_URL = "https://open.spotify.com/";
+const SPOTIFY_URL = "https://open.spotify.com/playlist/42E8tHiivPRvPi7tWA5215?si=zYtP1agtSI-QmqlILP_6Vg/";
 
 const songs = [
   ["a little piece of us", "for the moments that feel like home"],
